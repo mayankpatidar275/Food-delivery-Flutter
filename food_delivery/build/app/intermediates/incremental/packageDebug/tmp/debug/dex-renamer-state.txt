@@ -1,0 +1,4 @@
+#Thu Apr 21 10:03:44 IST 2022
+base.0=D\:\\Flutter Projects\\food_delivery\\food_delivery\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
